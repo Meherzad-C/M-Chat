@@ -1,5 +1,5 @@
 # M-Chat-Room
-Multiple Client Chat Room (Single-Thread)
+Multiple Client Chat Room (TCP/IP Server, Single-Thread)
 
 Instructions - 
 
