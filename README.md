@@ -1,4 +1,4 @@
-# M-Chat-Room
+# MyChat
 Multiple Client Chat Room (TCP/IP Server, Single-Thread)
 
 Instructions - 
